@@ -1,0 +1,13 @@
+D:\devpessoal\triboHelp\triboHelp\bin\Debug\netcoreapp3.1\triboHelp.exe
+D:\devpessoal\triboHelp\triboHelp\bin\Debug\netcoreapp3.1\triboHelp.deps.json
+D:\devpessoal\triboHelp\triboHelp\bin\Debug\netcoreapp3.1\triboHelp.runtimeconfig.json
+D:\devpessoal\triboHelp\triboHelp\bin\Debug\netcoreapp3.1\triboHelp.runtimeconfig.dev.json
+D:\devpessoal\triboHelp\triboHelp\bin\Debug\netcoreapp3.1\triboHelp.dll
+D:\devpessoal\triboHelp\triboHelp\bin\Debug\netcoreapp3.1\triboHelp.pdb
+D:\devpessoal\triboHelp\triboHelp\obj\Debug\netcoreapp3.1\triboHelp.GeneratedMSBuildEditorConfig.editorconfig
+D:\devpessoal\triboHelp\triboHelp\obj\Debug\netcoreapp3.1\triboHelp.AssemblyInfoInputs.cache
+D:\devpessoal\triboHelp\triboHelp\obj\Debug\netcoreapp3.1\triboHelp.AssemblyInfo.cs
+D:\devpessoal\triboHelp\triboHelp\obj\Debug\netcoreapp3.1\triboHelp.csproj.CoreCompileInputs.cache
+D:\devpessoal\triboHelp\triboHelp\obj\Debug\netcoreapp3.1\triboHelp.dll
+D:\devpessoal\triboHelp\triboHelp\obj\Debug\netcoreapp3.1\triboHelp.pdb
+D:\devpessoal\triboHelp\triboHelp\obj\Debug\netcoreapp3.1\triboHelp.genruntimeconfig.cache
